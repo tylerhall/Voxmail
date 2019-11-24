@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-imap/php-imap": "^3.0",
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
